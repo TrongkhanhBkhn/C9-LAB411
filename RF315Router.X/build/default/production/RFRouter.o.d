@@ -1,0 +1,12 @@
+build/default/production/RFRouter.o:  \
+	F:/PROJECT/MPLABX/RF/RF315-Main/RF315Router.X/RFRouter.c  \
+	F:/PROJECT/MPLABX/RF/RF315-Main/RF315Router.X/CC1101/CC1101.h  \
+	F:/PROJECT/MPLABX/RF/RF315-Main/RF315Router.X/LCD/LCD.h  \
+	F:/PROJECT/MPLABX/RF/RF315-Main/RF315Router.X/SPI/SPI.h  \
+	F:/PROJECT/MPLABX/RF/RF315-Main/RF315Router.X/UART/UART.h  \
+	F:/PROJECT/MPLABX/RF/RF315-Main/RF315Router.X/RFRouter.h  \
+	F:/PROJECT/MPLABX/RF/RF315-Main/RF315Router.X/Hardware/Generic.h  \
+	F:/PROJECT/MPLABX/RF/RF315-Main/RF315Router.X/TIMER/TIMER.h  \
+	F:/PROJECT/MPLABX/RF/RF315-Main/RF315Coordinator.X/Hardware/Generic.h  \
+	F:/PROJECT/MPLABX/RF/RF315-Main/RF315Router.X/RFConfig.h  \
+
