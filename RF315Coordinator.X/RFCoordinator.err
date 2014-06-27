@@ -1,0 +1,5 @@
+Warning[2066] F:\PROJECT\MPLABX\RF\RF315-Main\RF315Coordinator.X\RFCoordinator.c 94 : type qualifier mismatch in assignment
+Warning[2066] F:\PROJECT\MPLABX\RF\RF315-Main\RF315Coordinator.X\RFCoordinator.c 108 : type qualifier mismatch in assignment
+Warning[2066] F:\PROJECT\MPLABX\RF\RF315-Main\RF315Coordinator.X\RFCoordinator.c 118 : type qualifier mismatch in assignment
+Warning[2054] F:\PROJECT\MPLABX\RF\RF315-Main\RF315Coordinator.X\RFCoordinator.c 200 : suspicious pointer conversion
+Warning[2054] F:\PROJECT\MPLABX\RF\RF315-Main\RF315Coordinator.X\RFCoordinator.c 202 : suspicious pointer conversion
